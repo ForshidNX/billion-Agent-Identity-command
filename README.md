@@ -8,6 +8,73 @@ pkg update && pkg upgrade
 pkg install nodejs
 🟢 Step 3: Install Git
 pkg install git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🟢 Step 4 (Optional): Check Node.js Version
 node -v
 🟢 Step 5: Clone the Repository
